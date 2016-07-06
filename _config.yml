@@ -9,6 +9,7 @@ description: Building Technology and Community
 # better with square images
 external-image: false
 picture: assets/images/profile.jpg
+about_picture: assets/images/ryan.jpg
 
 url: http://ryangoins.github.io
 # your url: http://USERNAME.github.io
