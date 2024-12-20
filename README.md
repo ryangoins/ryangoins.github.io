@@ -1,14 +1,14 @@
-# ryangoins.github.io
+# User Guide for ryangoins.github.io
 
 
-# bad title
+# Example List Section 
 
-* list item 3
-* list item 5
+* Example list item 1
+* Example list item 2
 
-## a section
+## Section on Image Inclusion
 
-![free-reddit-logo-icon-2436-thumb.png](https://raw.githubusercontent.com/ryangoins/ryangoins.github.io/main/free-reddit-logo-icon-2436-thumb.png)
+![Reddit logo](https://raw.githubusercontent.com/ryangoins/ryangoins.github.io/main/free-reddit-logo-icon-2436-thumb.png)
 
 
 
