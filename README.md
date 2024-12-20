@@ -1,18 +1,18 @@
 # ryangoins.github.io
 
 
-### Okay this is a sub-header 
+### Sub-Header: List Details 
 
 * list item 2
 * list item 3
 
-# This is a new title
+# Section Two: Logo Display
 
 ![free-reddit-logo-icon-2436-thumb.png](https://raw.githubusercontent.com/ryangoins/ryangoins.github.io/main/free-reddit-logo-icon-2436-thumb.png)
 
 
 
-### new sub header
+### Sub-Header: NVIDIA Logo Display
 
 
 ![Nvidia_logo.svg.png](https://raw.githubusercontent.com/ryangoins/ryangoins.github.io/main/Nvidia_logo.svg.png)
