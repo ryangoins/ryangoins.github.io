@@ -1,20 +1,19 @@
 # ryangoins.github.io
 
 
-### Section 1: Introduction
+# bad title
 
-* list item 1
-* list item 2
+* list item 3
+* list item 5
 
-# Section 2: Image Resources
+## a section
 
 ![free-reddit-logo-icon-2436-thumb.png](https://raw.githubusercontent.com/ryangoins/ryangoins.github.io/main/free-reddit-logo-icon-2436-thumb.png)
 
 
 
-### Sub-Section: Additional Images
+### some other sub-section
 
 
 ![Nvidia_logo.svg.png](https://raw.githubusercontent.com/ryangoins/ryangoins.github.io/main/Nvidia_logo.svg.png)
-
 ![IMG_6972.HEIC](https://raw.githubusercontent.com/ryangoins/ryangoins.github.io/main/IMG_6972.HEIC)
